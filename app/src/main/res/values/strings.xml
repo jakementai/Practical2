@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="editTextHint">Enter a message</string>
+    <string name="buttonSend">Send</string>
+    <string name="reply_here">Reply Here</string>
+    <string name="message">Message</string>
+    <string name="error_message">Please enter a message</string>
+    <string name="Enter_a_reply">Enter a reply</string>
+    <string name="error_reply">Please enter a reply</string>
+    <string name="buttonReply">Reply</string>
+</resources>
